@@ -1,6 +1,6 @@
 # Neural Style Transfer
-* Implemented using PyTorch
-* Dataset: MS COCO
+* An implementation of Neural Style Transfer with PyTorch, infusing diverse artistic styles into images.
+* Dataset: [MS COCO](https://cocodataset.org/#home)
 
 Neural style transfer is about transferring style from a style image onto a content image using neural networks.
 
